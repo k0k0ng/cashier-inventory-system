@@ -1,1 +1,5 @@
-# cashier-inventory-system
+Cashier-Inventory Desktop Application
+
+tech stack:
+- java
+- sqlite
